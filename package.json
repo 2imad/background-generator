@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Client Background - gradient generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2imad/background-generator.git"
+  },
+  "author": "Imad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2imad/background-generator/issues"
+  },
+  "homepage": "https://github.com/2imad/background-generator#readme"
+}
